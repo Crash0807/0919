@@ -42,5 +42,6 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 | col 2 is | centered | $12 |
 | zebra stripes | are neat | $1 |
 
-
-
+*粗體*
+**粗體**
+~~粗體~~
