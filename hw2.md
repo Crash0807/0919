@@ -1,6 +1,6 @@
-#專案管理 
+# 專案管理 
 
-##甘特圖
+## 甘特圖
 ```mermaid
 gantt
     title A Gantt Diagram
@@ -13,6 +13,6 @@ gantt
     anther task      : 24d
 ```
 
-##PERT/CPM圖
+## PERT/CPM圖
 
-##關鍵路徑
+## 關鍵路徑
