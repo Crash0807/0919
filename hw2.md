@@ -15,7 +15,8 @@ gantt
 
 ## PERT/CPM圖
 
-![image](https://github.com/chang-chieh-ya/20230919/assets/120390028/8415a1a3-0bee-4473-b099-911e7b985f50)
+![image](pert.png)
 
 ## 關鍵路徑
 
+1->2->4->5
