@@ -20,7 +20,7 @@ gantt
 
 ## PERT/CPM圖
 
-
+![](pert.png)
 
 ## 關鍵路徑
 
